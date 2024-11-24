@@ -1,35 +1,115 @@
 # 👨‍💻 Frank Freitas
 
-**`Estudante de Desenvolvimento de Sistemas`**
+**`Estudante de Desenvolvimento de Software`**
 
-Olá! Meu nome é Frank Freitas e estou cursando **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Braz Cubas**. estou constantemente explorando novas linguagens e frameworks. Atualmente, estou me aprofundando em **Java**, além de estudar **SQL com PostgreSQL**, **React Native**, **JavaScript**, **HTML** e **CSS**.
+Olá! Sou Frank Freitas, estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Braz Cubas. Sou apaixonado por tecnologia e estou em constante aprendizado, explorando linguagens e frameworks para ampliar minhas habilidades. Estou começando minha jornada no mundo do desenvolvimento, estudando tanto na faculdade quanto por conta própria, através de cursos online.
 
-Embora eu ainda esteja ganhando experiência prática com essas tecnologias, estou me dedicando ao máximo para aprimorar minhas habilidades através de cursos e projetos.
-
----
-
-### Tecnologias que estou estudando:
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="React Native" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<br/><br/>
-
----
-
-### 📌 Links úteis:
-
-- [Meu GitHub](https://github.com/frank-freitas)
-- [Meu LinkedIn](https://www.linkedin.com/in/frank-freitas9/)
+<p align="left">
+    <a href="https://github.com/frank-freitas">
+        <img 
+            alt="GitHub" 
+            title="Acesse meu GitHub"
+            src="https://img.shields.io/badge/GitHub-frank--freitas-181717?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/frank-freitas9/">
+        <img 
+            alt="LinkedIn"
+            title="Acesse meu LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-frank--freitas9-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-### Minhas Estatísticas no GitHub:
+### 🛠️ Tecnologias que estou aprendendo:
+- **Principais tecnologias:**  
+  Estou focado em aprender **Java**, **SQL com PostgreSQL**, **React Native**, **JavaScript**, **HTML**, **CSS** e **Spring Framework**.
+
+- **Meu objetivo:**  
+  Me aprofundar nessas tecnologias, construir projetos práticos e evoluir como desenvolvedor.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native" 
+    title="React Native" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring Framework" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="Frank's GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=frank-freitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-freitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=frank-freitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-freitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
