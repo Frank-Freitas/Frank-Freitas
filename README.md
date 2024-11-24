@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Software`**
 
-Olá! Sou Frank Freitas, estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Braz Cubas. Sou apaixonado por tecnologia e estou em constante aprendizado, explorando linguagens e frameworks para ampliar minhas habilidades. Estou começando minha jornada no mundo do desenvolvimento, estudando tanto na faculdade quanto por conta própria, através de cursos online.
+Olá! Sou Frank Freitas, estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Braz Cubas. |Estou em constante aprendizado, explorando linguagens e frameworks para ampliar minhas habilidades. Estou começando minha jornada no mundo do desenvolvimento, estudando tanto na faculdade quanto por conta própria, através de cursos online.
 
 <p align="left">
     <a href="https://github.com/frank-freitas">
@@ -24,11 +24,10 @@ Olá! Sou Frank Freitas, estudante de Análise e Desenvolvimento de Sistemas no 
 ---
 
 ### 🛠️ Tecnologias que estou aprendendo:
-- **Principais tecnologias:**  
   Estou focado em aprender **Java**, **SQL com PostgreSQL**, **React Native**, **JavaScript**, **HTML**, **CSS** e **Spring Framework**.
 
 - **Meu objetivo:**  
-  Me aprofundar nessas tecnologias, construir projetos práticos e evoluir como desenvolvedor.
+  Me aprofundar nessas tecnologias, e evoluir como desenvolvedor.
 
 ---
 
