@@ -24,7 +24,12 @@ Olá! Sou Frank Freitas, estudante de Análise e Desenvolvimento de Sistemas no 
 ---
 
 ### 🛠️ Tecnologias que estou aprendendo:
-  Estou focado em aprender **Java**, **SQL com PostgreSQL**, **React Native**, **JavaScript**, **HTML**, **CSS** e **Spring Framework**.
+
+- **Tecnologias principais:** 
+  Estou focado em aprender **Java** com **Spring Framework**, e **SQL**.
+
+- **Outras tecnologias:** 
+   **React Native**, **JavaScript**, **HTML**, **CSS**.
 
 - **Meu objetivo:**  
   Me aprofundar nessas tecnologias, e evoluir como desenvolvedor.
